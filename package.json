@@ -1,6 +1,6 @@
 {
     "name": "JRT",
-    "version": "2.1.0",
+    "version": "0.0.1",
     "description": "Đây là source code được fix lại bởi JRT. Chúc các bạn có một ngày vui vẻ <3",
     "main": "mirai.js",
     "scripts": {
@@ -38,7 +38,7 @@
         "extract-zip": "^2.0.1",
         "fast-speedtest-api": "^0.3.2",
         "fb-chat-api": "github:JustGonDev/fca-unofficial-force",
-        "fca-disme": "^3.0.7",
+        "fca-disme": "^0.0.1",
         "fca-horizon-remake": "^4.8.7",
         "fca-unofficial-force": "^10.3.13",
         "fca-xuyen-get": "^1.3.16",
